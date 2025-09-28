@@ -67,3 +67,27 @@ if(condition){
 // else {
 //    console.log("It's a cold day")
 // }
+
+
+
+
+// Logical operator && ||
+
+
+
+
+
+// var hour = 14;
+
+// if(hour >= 6 && hour < 12){
+//    console.log("Good morning");
+// }else{
+//    if(hour >=12 && hour < 18){
+//       console.log("Good afternoon")
+//    }else{
+//       console.log("Good evening!");
+//    }
+
+// }
+
+
