@@ -31,8 +31,18 @@ else{
 
 
 if(condition){
+   if(condition){
+   
+   }else{
+      
+   }
 
 }else if(condition){
+   if(condition){
+   
+   }else{
+      
+   }
 
 }else if(condition){
 
@@ -40,23 +50,20 @@ if(condition){
    
    }
 
-
-
-
 */
 
 
-var temperature = 9;
+// var temperature = 9;
 
-if (temperature > 30) {
-   console.log("It's a hot day");
-} else if (temperature > 20) {
-   console.log("it's a warm day.")
-}
+// if (temperature > 30) {
+//    console.log("It's a hot day");
+// } else if (temperature > 20) {
+//    console.log("it's a warm day.")
+// }
 
-else if (temperature > 10) {
-   console.log("it's a cool day.");
-}
-else {
-   console.log("It's a cold day")
-}
+// else if (temperature > 10) {
+//    console.log("it's a cool day.");
+// }
+// else {
+//    console.log("It's a cold day")
+// }
