@@ -91,3 +91,12 @@ if(condition){
 // }
 
 
+// var x = 7
+
+// // x er man jodi 5 er choto hoy ba 10 er boro hoy tahole true hobe
+
+// if(x>5 || x>10){
+//    console.log(true)
+// }else{
+//    console.log("false")
+// }
